@@ -1,0 +1,49 @@
+{
+	"userid": "o7dNp0_O1Txb-aRr7nHS-hhyASVE",
+	"transactionId": "000001",
+	"userinfo": "{\"username\":\"用户名\",\"sex\":\"168\",\"age\":\"35\"}",
+	"pic": {
+		"messageTime": "1548383569974",
+		"userid": "o7dNp0_O1Txb-aRr7nHS-hhyASVE",
+		"picture": {
+			"back": "http:\/\/sharedchair-test.oss-cn-shenzhen.aliyuncs.com\/ogawa\/file\/posture\/000001\/back.jpg",
+			"front": "http:\/\/sharedchair-test.oss-cn-shenzhen.aliyuncs.com\/ogawa\/file\/posture\/000001\/front.jpg"
+		},
+		"transactionId": "000001"
+	},
+	"analysis": [{
+		"direction": "正面",
+		"item": "高低肩",
+		"result": "偏移约 <1 度"
+	}, {
+		"direction": "正面",
+		"item": "头侧倾",
+		"result": "偏移约 3 度"
+	}, {
+		"direction": "侧面",
+		"item": "头前倾",
+		"result": "偏移约 4 度"
+	}, {
+		"direction": "侧面",
+		"item": "骨盆前倾",
+		"result": "偏移 30 度"
+	}, {
+		"direction": "侧面",
+		"item": "圆肩\/驼背",
+		"result": "偏移 <1 度"
+	}, {
+		"direction": "侧面",
+		"item": "指标",
+		"result": "结果"
+	}],
+	"program": [{
+		"time": "8分钟",
+		"program": "按摩程序名称或者指令集"
+	}, {
+		"time": "15分钟",
+		"program": "按摩程序名称或者指令集"
+	}, {
+		"time": "20分钟",
+		"program": "按摩程序名称或者指令集"
+	}]
+}
